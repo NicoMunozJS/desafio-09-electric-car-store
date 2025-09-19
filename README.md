@@ -1,6 +1,6 @@
-# ⚡ Desafío 3 – Electric Car Store
+# ⚡ Desafío 9 – Electric Car Store
 
-Este proyecto corresponde al **Desafío 3 – Electric Car Store** del bootcamp **Desafío Latam**.  
+Este proyecto corresponde al **Desafío 9 – Electric Car Store** del bootcamp **Desafío Latam**.  
 El objetivo es aplicar los conocimientos de **Media Queries, CSS Grid y Flexbox** para crear layouts responsivos adaptados a dispositivos móviles y escritorio.
 
 ---
