@@ -1,26 +1,40 @@
-⚡ Electric Car Store - Desafío 3
-Este proyecto corresponde al Desafío 3 - Electric Car Store del bootcamp Desafío Latam, donde se aplican los conocimientos de **media queries**, **CSS Grid** y **Flexbox** para crear layouts responsivos adaptados a dispositivos móviles y escritorio.
+# ⚡ Desafío 3 – Electric Car Store
 
-🚀 Objetivo del desafío
-Crear una página web con **dos layouts diferentes** (Mobile y Desktop) utilizando CSS Grid y Flexbox, mostrando productos de manera organizada y adaptable a distintos tamaños de pantalla.
+Este proyecto corresponde al **Desafío 3 – Electric Car Store** del bootcamp **Desafío Latam**.  
+El objetivo es aplicar los conocimientos de **Media Queries, CSS Grid y Flexbox** para crear layouts responsivos adaptados a dispositivos móviles y escritorio.
 
-✅ Requerimientos cumplidos
-- **Layouts Mobile y Desktop** - Se diseñaron dos layouts distintos, activando la versión de escritorio sobre 576px
-- **Grid con grid-template-areas** - Se utilizó CSS Grid para estructurar todas las secciones de ambos layouts
-- **Flexbox en secciones** - Flexbox se aplicó para distribuir elementos dentro de cada sección (menú, filtros, sección principal y pie de página)
-- **Secciones de la página** - La página incluye: menú de navegación, filtros de búsqueda, sección principal y pie de página
-- **Diseño responsivo** - La página se adapta correctamente a dispositivos móviles y escritorio, manteniendo consistencia visual
+---
 
-🛠️ Tecnologías utilizadas
-- HTML5 semántico
-- CSS3 con Grid y Flexbox
-- Media Queries para diseño responsivo
-- Git para control de versiones
+## 🚀 Objetivo del desafío
+- Crear una página web con **dos layouts diferentes** (Mobile y Desktop).  
+- Utilizar **CSS Grid** para la estructura principal de cada layout.  
+- Aplicar **Flexbox** en secciones específicas para organizar elementos internos.  
+- Adaptar el diseño mediante **Media Queries** para resoluciones mayores a 576px.  
+- Mostrar productos de manera organizada y consistente en distintos tamaños de pantalla.  
 
-📂 Estructura del proyecto
-assets/
-  index.html           # Página principal del proyecto con ambos layouts
-  style.css            # Estilos CSS con Grid, Flexbox y media queries
-  img/
-    auto.jpg           # Imagen de ejemplo del proyecto
-  README.md            # Este archivo
+---
+
+## 🛠️ Requerimientos cumplidos
+
+- Se diseñaron dos layouts distintos: **Mobile** y **Desktop** (activando escritorio sobre 576px).  
+- Se utilizó `grid-template-areas` en CSS Grid para estructurar todas las secciones.  
+- Flexbox se aplicó en el menú, filtros, sección principal y pie de página para distribuir elementos.  
+- La página incluye las secciones: **menú de navegación, filtros de búsqueda, sección principal y pie de página**.  
+- El diseño es completamente **responsivo y coherente** en dispositivos móviles y escritorio.  
+
+---
+
+## 📂 Archivos principales
+
+- **index.html** – Estructura base con ambos layouts (mobile y desktop).  
+- **style.css** – Estilos aplicando Grid, Flexbox y Media Queries.  
+- **assets/img/** – Carpeta con imágenes utilizadas (ejemplo: autos, íconos, etc.).  
+
+---
+
+## ▶️ Cómo ejecutar este proyecto
+
+Clona el repositorio en tu máquina local mediante la terminal (cmd):
+
+```bash
+git clone https://github.com/NicoMunozJS/desafio-09-electric-car-store
